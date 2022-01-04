@@ -13,9 +13,9 @@ public class RaisedCloudsConfig implements ConfigData {
 	@ConfigEntry.Gui.Tooltip
 	public float baseY = 128;
 
-	@ConfigEntry.Gui.Tooltip
-	public double scale = 1;
-
-	@ConfigEntry.Gui.Tooltip(count = 2)
-	public boolean cameraAnchor = false;
+//	@ConfigEntry.Gui.Tooltip
+//	public double scale = 1;
+//
+//	@ConfigEntry.Gui.Tooltip(count = 2)
+//	public boolean cameraAnchor = false;
 }
